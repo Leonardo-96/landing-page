@@ -1,0 +1,25 @@
+body {
+    background-color: #1F2937;
+}
+
+.image1{
+    height: 100px;
+    width: auto;
+}
+
+.image2 {
+    height: 250px;
+    width: auto;
+
+}
+
+.image3-6 {
+    height: 200px;
+    width: auto;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
